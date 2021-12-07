@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517706453699",
+    "project_id": "authentication-13495",
+    "storage_bucket": "authentication-13495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517706453699:android:9d2d9186bf40c5b51b0876",
+        "android_client_info": {
+          "package_name": "com.example.indoorlocationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517706453699-b6dvdikej8hitct0ug93kck0i3315drt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ukhgh64lwLp0U0HVN7ggSkHYxARp3J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517706453699-b6dvdikej8hitct0ug93kck0i3315drt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

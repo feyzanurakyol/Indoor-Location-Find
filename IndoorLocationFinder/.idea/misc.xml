@@ -4,14 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/drawable/rect_field.xml" value="0.19583333333333333" />
-        <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/dashboard.xml" value="0.22" />
         <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/locationmap.xml" value="0.22" />
-        <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/signup.xml" value="0.1" />
+        <entry key="..\:/Users/Feyza/AndroidStudioProjects/IndoorLocationFinder/app/src/main/res/layout/signup.xml" value="0.14666666666666667" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
